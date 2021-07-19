@@ -1,0 +1,24 @@
+{
+  "name": "nodelogger",
+  "version": "1.0.0",
+  "description": "Logger module functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siriv1997/nodeLogger.git"
+  },
+  "author": "Surendra Kanigiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siriv1997/nodeLogger/issues"
+  },
+  "homepage": "https://github.com/siriv1997/nodeLogger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "winston": "^3.3.3"
+  }
+}
